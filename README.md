@@ -1,1 +1,3 @@
-# conf-ipc1
+# AUTORS
+
+1. Erick Lemus
